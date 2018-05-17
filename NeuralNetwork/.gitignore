@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+*.cfg
+bin/
+include/
+lib/
